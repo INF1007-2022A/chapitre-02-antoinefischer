@@ -4,7 +4,7 @@ def majuscule(mot):
     # TODO completer la fonction ici
     return mot
 
-
+print("a")
 if __name__ == '__main__':
     mots = [
         'riz',
